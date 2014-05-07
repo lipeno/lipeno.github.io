@@ -1,0 +1,5 @@
+name: Your New Jekyll Site
+markdown: redcarpet
+pygments: true
+paginate: 3
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
