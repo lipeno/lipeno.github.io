@@ -80,7 +80,7 @@ title: Andrej Dragisic personal site
         </p>
         <p>
 
-        A fast learner who gathered much experience in a short amount of time. Present on the web since it’s early beginnings having built a web hosting service and sold packages while only just starting out high school. Worked in Jolicloud, one of the most successful startups in Paris, just before getting Master degree in Software Engineering. Founded his first startup at the age of 24 and consulted for top startups from all over the world, mainly US. After finding a motivating project to work on, quickly gets to superb solutions.
+        A fast learner who gathered much experience in a short amount of time. Built and ran a web hosting service in high school. Worked in Jolicloud, one of the most successful startups in Paris, just before getting Master degree in Software Engineering. Founded his first startup at the age of 24 and consulted for top startups from all over the world. After finding a motivating project to work on, quickly gets to superb solutions.
         </p>
 
         <p>
@@ -94,10 +94,10 @@ title: Andrej Dragisic personal site
 
         <ul id="skill">
             <li><span class="bar graphic-design"></span><h5>Angular.js</h5></li>
-            <li><span class="bar html-css"></span><h5>Javascript</h5></li>
-            <li><span class="bar html-css"></span><h5>Ruby on Rails</h5></li>
-            <li><span class="bar jquery"></span><h5>Node.js</h5></li>
-            <li><span class="bar wordpress"></span><h5>Product Management</h5></li>
+            <li><span class="bar html-css"></span><h5>Javascript & Node.js</h5></li>
+            <li><span class="bar html-css"></span><h5>Ruby & Ruby on Rails</h5></li>
+            <li><span class="bar jquery"></span><h5>Product Management</h5></li>
+            <li><span class="bar wordpress"></span><h5>Marketing</h5></li>
             <!--<li><span class="bar wordpress"></span><h5>Project Management</h5></li>-->
 
         </ul>
@@ -463,26 +463,19 @@ title: Andrej Dragisic personal site
             <div id="form-sent" class="hide left">
                 <div class="alert-box success"><i class="icon-thumbs-up">&nbsp;</i>Message sent: Thankyou for your enquiry</div>
             </div>
-            <!--<form id="contact-form">-->
-                <!--<input id="form-name" type="text" placeholder="Name" />-->
-                <!--<input id="form-email"  type="text" placeholder="Email Address" />-->
-                <!--<textarea id="form-msg"  placeholder="Message"></textarea>-->
-                <!--<div id="details-error-wrap"  class="hide">-->
-                    <!--<div class="alert-box alert error-box"><i class=" icon-exclamation-sign">&nbsp;</i>Error: Please ensure all fields are filled in correctly</div>-->
-                <!--</div>-->
-                <!--<input id="form-security" type="text" placeholder="7 + 1 = ?" />-->
-                <!--<div id="security-error-wrap"  class="hide">-->
-                    <!--<div class="alert-box alert error-box"><i class=" icon-exclamation-sign">&nbsp;</i>Error: Security question is incorrect</div>-->
-                <!--</div>-->
-                <!--<input type="submit" class="form-button button right" />-->
-
-            <!--</form>-->
 
             <form action="//api.formspree.com/andrejdragisic@gmail.com" method="POST">
                 <input id="form-name" name="name" type="text" placeholder="Name">
                 <!--<input id="form-name" type="text" placeholder="Name" />-->
                 <input name="_replyto" id="form-email" type="email" placeholder="Email Address">
                 <!--<input id="form-email"  type="text" placeholder="Email Address" />-->
+                <select name="budget" data-index="0" class="form-control">
+                    <option value="hourly rate">Interested in working with hourly rate</option>
+                    <option value="up to $4000">Have a project with budget up to $4000</option>
+                    <option value="$4000-$10000">Have a project with budget of $4000-$10000</option>
+                    <option value="more than $10000">Have a project with budget of more than $10000</option>
+                </select>
+
                 <textarea id="form-msg"  name="message" class="form-control" rows="3" placeholder="Message"></textarea>
                 <!--<textarea id="form-msg"  placeholder="Message"></textarea>-->
 
@@ -496,14 +489,6 @@ title: Andrej Dragisic personal site
                 <input type="submit" class="form-button button right" />
 
             </form>
-
-            <!--<form action="//api.formspree.com/andrejdragisic@gmail.com" method="POST">-->
-                <!--<input type="text" name="name">-->
-                <!--<input type="email" name="_replyto">-->
-                <!--<textarea name="message" class="form-control" rows="3"></textarea>-->
-                <!--<input type="submit" value="Send">-->
-
-            <!--</form>-->
 
         </div>
 
