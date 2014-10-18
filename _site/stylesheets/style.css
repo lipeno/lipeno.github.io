@@ -296,11 +296,6 @@ margin-bottom: 20px;
 	float:right;
 }
 
-.resume-entry ul{
-    padding-left: 0px;
-    margin-left: 0px;
-}
-
 .resume-company{
 	color: #ff3e36;
 }
@@ -548,3 +543,4 @@ margin-bottom: 20px;
 .six.columns p{
     font-size: 14px;
 }
+
