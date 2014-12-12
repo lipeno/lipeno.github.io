@@ -36,12 +36,12 @@ $(document).ready(function() {
 
 	// Handle hover event for the project images
 
-	$(".project-img-wrap").mouseenter(function(){
-			$(this).children('.project-hover').fadeIn(200);
-		}).mouseleave(function(){
-		  $(this).children('.project-hover').fadeOut(200);
-		});	
-	
+//	$(".project-img-wrap").mouseenter(function(){
+//			$(this).children('.project-hover').fadeIn(200);
+//		}).mouseleave(function(){
+//		  $(this).children('.project-hover').fadeOut(200);
+//		});
+//
 	//Tooltips Code:
 	 $('.hasatip').tooltipster({
 	 	delay: 0,

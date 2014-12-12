@@ -114,6 +114,10 @@ margin-bottom: 20px;
 	text-align: center;
 }
 
+.navi li.active {
+    border-bottom: 3px #fff solid;
+}
+
 
 /* Home Styles */
 
@@ -385,7 +389,7 @@ margin-bottom: 20px;
 	min-width: 100%;
 	margin: 0px auto;
 	overflow: hidden;
-	cursor: pointer;
+	/*cursor: pointer;*/
 }
 
 .project-img-wrap img{

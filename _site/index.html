@@ -7,7 +7,7 @@
     <meta charset="utf-8" />
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Andrej Dragisic personal site</title>
+    <title>Andrej Dragisic</title>
 
     <meta name="description" content="Personal website of Andrej Dragisic, web development consultant">
     <meta name="keywords" content="Javascript developer, Angular developer, Rails developer, web application development">
@@ -27,7 +27,6 @@
     <link rel="stylesheet" href="/assets/css/font-awesome-ie7.min.css">
     <![endif]-->
 
-    <script src="/javascripts/modernizr.foundation.js"></script>
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,200,700' rel='stylesheet' type='text/css'>
 
 </head>
@@ -36,7 +35,6 @@
 <body>
 
 
-<a id="home-nav"></a>
 <div class="navi" data-magellan-expedition>
     <ul >
         <li data-magellan-arrival='home' class="hasatip" data-width="210" title="Home"><a href="/#home-nav" class="scroll"><i class="icon-home"></i></a></li>
@@ -47,10 +45,9 @@
         <li data-magellan-arrival='blog' class="hasatip" data-width="210" title="Blog"><a href="/#blog-nav" class="scroll"><i class="icon-comment"></i></a></li>
     </ul>
 </div>
+<a id="home-nav" data-magellan-destination='home'></a>
 <div class="row">
-
 <div class="twelve columns" id="main-container">
-
 <section class="row" id="home">
 
     <div class="four columns home-left">
@@ -91,9 +88,8 @@
 
 </section><!-- end of Home -->
 
-<a id="profile-nav">&nbsp;</a>
-<section class="row page" id="profile" data-magellan-destination='profile'>
-
+<a id="profile-nav" data-magellan-destination='profile'></a>
+<section class="row page" id="profile">
     <div class="twelve columns">
         <h5 class="page-heading">PROFILE</h5>
     </div>
@@ -102,7 +98,9 @@
         <div class="twelve columns text-center">
             <hr />
             <h3>
-            I'm a web development consultant working for clients from all over the world.
+            <!--I'm a web development consultant working for clients from all over the world.-->
+            <!--I'm a web development consultant helping clients around the world reach their business goals.-->
+            I'm a web development consultant combining engineering and marketing skills to help clients reach their business goals.
             </h3>
             <hr />
             <div id="profile-slide">
@@ -149,14 +147,10 @@
 
     </div>
 
-
 </section><!-- end of Profile -->
 
-
-<a id="projects-nav"></a>
-
+<a id="projects-nav" data-magellan-destination='projects'></a>
 <section class="row page" id="featured-project">
-
     <div class="twelve columns">
         <h5 class="page-heading">FEATURED PROJECT</h5>
         <hr />
@@ -240,11 +234,10 @@
         </div>
     </div>
 
-
 </section>
 
-<a id="resume-nav"></a>
 
+<a id="resume-nav" data-magellan-destination='resume'></a>
 <section class="row page" id="resume">
     <div class="twelve columns">
         <h5 class="page-heading">RESUMÉ HIGHLIGHTS</h5>
@@ -327,17 +320,8 @@
                 </div>
             </div>
         </li>
-        <li class="timeline-inverted">
-            <div class="timeline-badge">2011</div>
-            <div class="timeline-panel">
-                <div class="timeline-heading">
-                    <h4 class="timeline-title">  <span class="resume-title"><i class="icon-certificate">&nbsp;</i>Bachelor of Computing Degree</span>
-                    </h4>
-                </div>
-            </div>
-        </li>
 
-        <li>
+        <li class="timeline-inverted">
             <div class="timeline-badge danger">2011</div>
             <div class="timeline-panel">
                 <div class="timeline-heading">
@@ -352,9 +336,10 @@
                     </p>
                 </div>
             </div>
+
         </li>
 
-        <li class="timeline-inverted">
+        <li>
             <div class="timeline-badge danger">2006</div>
             <div class="timeline-panel">
                 <div class="timeline-heading">
@@ -378,23 +363,15 @@
 </section><!-- end of Resume -->
 
 
-
-
- <!--end of Featured Project-->
-
-
 <section class="row divider text-center">
     <h1 class="icon-comment"></i><br />
         <h3>
             Andrej is someone who has a natural curiosity and deep eagerness to learn new things. He integrated easily into our team and was a perfect fit for our company!    			</h3>
-        <h4><em>- Romain Huet (Jolicloud & Twitter)</em></h4>
+        <h4><em>- Romain Huet (Twitter & Jolicloud)</em></h4>
     </h1>
 </section>
 
-
-<a id="contact-nav"></a>
-
-
+<a id="contact-nav" data-magellan-destination='contact'></a>
 <section class="row page" id="contact">
 
     <div class="twelve columns">
@@ -486,9 +463,8 @@
 
 </div>
 
-<a id="blog-nav"></a>
-
-<section class="row page" id="projects">
+<a id="blog-nav" data-magellan-destination='blog'></a>
+<section class="row page" id="projects" >
 
     <div class="twelve columns">
         <h5 class="page-heading">ESSAYS & POSTS</h5>
@@ -502,22 +478,22 @@
                 
                 <li>
                     <a href="/2012/06/08/a-beautiful-love-story.html">A beautiful love story</a>
-                    <span>( June 2012 )</span>
+                    <!--<span>( June 2012 )</span>-->
                 </li>
                 
                 <li>
                     <a href="/2012/05/26/Concept-of-mini-retirement.html">Concept of mini-retirement</a>
-                    <span>( May 2012 )</span>
+                    <!--<span>( May 2012 )</span>-->
                 </li>
                 
                 <li>
                     <a href="/2012/04/03/South-of-France.html">South of France</a>
-                    <span>( April 2012 )</span>
+                    <!--<span>( April 2012 )</span>-->
                 </li>
                 
                 <li>
                     <a href="/2012/01/23/book-recommendations.html">Book recommendations for web entrepreneurs</a>
-                    <span>( January 2012 )</span>
+                    <!--<span>( January 2012 )</span>-->
                 </li>
                 
             </ul>
@@ -534,11 +510,8 @@
 
 
 
-
-<!-- Included JS Files (Compressed) -->
+<script src="/javascripts/modernizr.foundation.js"></script>
 <script src="/javascripts/foundation.min.js"></script>
-
-<!-- Initialize JS Plugins -->
 <script src="/javascripts/app.js"></script>
 <script src="/javascripts/scripts.js"></script>
 <script src="/javascripts/jquery.tooltipster.js"></script>

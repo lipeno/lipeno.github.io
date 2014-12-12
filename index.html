@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Andrej Dragisic personal site
+title: Andrej Dragisic
 ---
 
 
-<a id="home-nav"></a>
 <div class="navi" data-magellan-expedition>
     <ul >
         <li data-magellan-arrival='home' class="hasatip" data-width="210" title="Home"><a href="/#home-nav" class="scroll"><i class="icon-home"></i></a></li>
@@ -15,10 +14,9 @@ title: Andrej Dragisic personal site
         <li data-magellan-arrival='blog' class="hasatip" data-width="210" title="Blog"><a href="/#blog-nav" class="scroll"><i class="icon-comment"></i></a></li>
     </ul>
 </div>
+<a id="home-nav" data-magellan-destination='home'></a>
 <div class="row">
-
 <div class="twelve columns" id="main-container">
-
 <section class="row" id="home">
 
     <div class="four columns home-left">
@@ -59,9 +57,8 @@ title: Andrej Dragisic personal site
 
 </section><!-- end of Home -->
 
-<a id="profile-nav">&nbsp;</a>
-<section class="row page" id="profile" data-magellan-destination='profile'>
-
+<a id="profile-nav" data-magellan-destination='profile'></a>
+<section class="row page" id="profile">
     <div class="twelve columns">
         <h5 class="page-heading">PROFILE</h5>
     </div>
@@ -70,7 +67,9 @@ title: Andrej Dragisic personal site
         <div class="twelve columns text-center">
             <hr />
             <h3>
-            I'm a web development consultant working for clients from all over the world.
+            <!--I'm a web development consultant working for clients from all over the world.-->
+            <!--I'm a web development consultant helping clients around the world reach their business goals.-->
+            I'm a web development consultant combining engineering and marketing skills to help clients reach their business goals.
             </h3>
             <hr />
             <div id="profile-slide">
@@ -117,14 +116,10 @@ title: Andrej Dragisic personal site
 
     </div>
 
-
 </section><!-- end of Profile -->
 
-
-<a id="projects-nav"></a>
-
+<a id="projects-nav" data-magellan-destination='projects'></a>
 <section class="row page" id="featured-project">
-
     <div class="twelve columns">
         <h5 class="page-heading">FEATURED PROJECT</h5>
         <hr />
@@ -208,11 +203,10 @@ title: Andrej Dragisic personal site
         </div>
     </div>
 
-
 </section>
 
-<a id="resume-nav"></a>
 
+<a id="resume-nav" data-magellan-destination='resume'></a>
 <section class="row page" id="resume">
     <div class="twelve columns">
         <h5 class="page-heading">RESUMÉ HIGHLIGHTS</h5>
@@ -295,17 +289,8 @@ title: Andrej Dragisic personal site
                 </div>
             </div>
         </li>
-        <li class="timeline-inverted">
-            <div class="timeline-badge">2011</div>
-            <div class="timeline-panel">
-                <div class="timeline-heading">
-                    <h4 class="timeline-title">  <span class="resume-title"><i class="icon-certificate">&nbsp;</i>Bachelor of Computing Degree</span>
-                    </h4>
-                </div>
-            </div>
-        </li>
 
-        <li>
+        <li class="timeline-inverted">
             <div class="timeline-badge danger">2011</div>
             <div class="timeline-panel">
                 <div class="timeline-heading">
@@ -320,9 +305,10 @@ title: Andrej Dragisic personal site
                     </p>
                 </div>
             </div>
+
         </li>
 
-        <li class="timeline-inverted">
+        <li>
             <div class="timeline-badge danger">2006</div>
             <div class="timeline-panel">
                 <div class="timeline-heading">
@@ -346,23 +332,15 @@ title: Andrej Dragisic personal site
 </section><!-- end of Resume -->
 
 
-
-
- <!--end of Featured Project-->
-
-
 <section class="row divider text-center">
     <h1 class="icon-comment"></i><br />
         <h3>
             Andrej is someone who has a natural curiosity and deep eagerness to learn new things. He integrated easily into our team and was a perfect fit for our company!    			</h3>
-        <h4><em>- Romain Huet (Jolicloud & Twitter)</em></h4>
+        <h4><em>- Romain Huet (Twitter & Jolicloud)</em></h4>
     </h1>
 </section>
 
-
-<a id="contact-nav"></a>
-
-
+<a id="contact-nav" data-magellan-destination='contact'></a>
 <section class="row page" id="contact">
 
     <div class="twelve columns">
@@ -454,9 +432,8 @@ title: Andrej Dragisic personal site
 
 </div>
 
-<a id="blog-nav"></a>
-
-<section class="row page" id="projects">
+<a id="blog-nav" data-magellan-destination='blog'></a>
+<section class="row page" id="projects" >
 
     <div class="twelve columns">
         <h5 class="page-heading">ESSAYS & POSTS</h5>
@@ -470,7 +447,7 @@ title: Andrej Dragisic personal site
                 {% for post in site.posts %}
                 <li>
                     <a href="{{ post.url }}">{{ post.title }}</a>
-                    <span>( {{ post.date | date: "%B %Y" }} )</span>
+                    <!--<span>( {{ post.date | date: "%B %Y" }} )</span>-->
                 </li>
                 {% endfor %}
             </ul>
