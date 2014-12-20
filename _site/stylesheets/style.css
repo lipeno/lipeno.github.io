@@ -548,3 +548,11 @@ margin-bottom: 20px;
     font-size: 14px;
 }
 
+p{
+    font-size: 13px;
+}
+
+#description p{
+    font-size: 15px;
+}
+
