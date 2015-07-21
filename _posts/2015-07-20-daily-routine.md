@@ -12,8 +12,8 @@ To do this, it can help to introduce some routine to your everyday life, as disc
 After digging into the science behind daily routines and browsing around daily routines of successful people I have experimented to figure out what works the best for me. While not all the same stuff will work for you, hopefully it can help to build your own routine which can take only a few minutes per day but have a great impact to your life.
 
 #### MORNING (after waking up)
-1.	 Drink 2 glasses of **water** (1min).
-2.	 **Yoga** and stretching, 7-min whole body workout  (12mins)
+1.	 Drink 2 glasses of **water** (1min)
+2.	 **Yoga** and stretching, 7-min **whole body workout**  (12mins)
 3.	 **Breakfast**, morning shake and supplements (20mins)
 4.	 Brush your **teeth** (2mins)
 5.	 **Meditation**, use Calm app, practice breath also (10mins)
@@ -21,7 +21,7 @@ After digging into the science behind daily routines and browsing around daily r
   1. 3 things that I am grateful for…
   2. 3 things that would make today great…
 	3. Daily affirmations, I am…
-7.	 \***What is bothering** me now the most? Spend 2h solving the problem.
+7.	 **\*What is bothering** me now the most? Spend 2h solving the problem.
 
 #### DURING THE DAY
 1.	 Set a timer and work in **50-90min increments**
