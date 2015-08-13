@@ -15,15 +15,17 @@ After digging into the science behind daily routines and learning about daily ro
 
 #### MORNING (after waking up)
 1.	 Drink 2 glasses of **water** (1min)
-2.	 **Yoga** and stretching, 7-min **whole body workout**  (12mins)
-3.	 **Breakfast**, morning shake and supplements (20mins)
+2.	 **Yoga** and stretching (5mins)
+3.   High intensity **whole body workout**  (7mins)
+3.	 **Breakfast**, morning shake and multivitamins (15mins)
 4.	 Brush your **teeth** (2mins)
 5.	 **Meditation**, use Calm app, practice breath also (10mins)
 6.	 Write the **morning journal** (5mins)
   1. 3 things that I am grateful for…
   2. 3 things that would make today great…
   3. Daily affirmations, I am…
-7.	 \***What is bothering** me now the most? Spend 2h solving the problem.
+7.	 \*\*\***What is bothering** me now the most? Spend 1h solving the problem.
+8. Define most important goal for today + 2 other goals.
 
 #### DURING THE DAY
 1.	 Set a timer and work in **50-90min increments**
