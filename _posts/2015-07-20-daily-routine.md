@@ -24,8 +24,8 @@ After digging into the science behind daily routines and learning about daily ro
   1. 3 things that I am grateful for…
   2. 3 things that would make today great…
   3. Daily affirmations, I am…
-7.	 \*\*\***What is bothering** me now the most? Spend 1h solving the problem.
-8. Define most important goal for today + 2 other goals.
+7. Define 3 most important goals for today
+8. (OPTIONAL)**What is bothering** me now the most? Spend 1h solving the problem
 
 #### DURING THE DAY
 1.	 Set a timer and work in **50-90min increments**
@@ -44,4 +44,4 @@ After digging into the science behind daily routines and learning about daily ro
   1.	What have I given today? In what ways have I been a giver today? What did I learn today? How has today added to the quality of my life?
   2.	Did I exercise, sleep 8 hours, and eat well?
   3.	When walking outside, did I wish all beings I encounter loving-kindness?
-4.	 **Read** a book (30mins)
+4.	 **Read** a fiction book (30mins)
