@@ -7,7 +7,7 @@ date:   2015-07-20 10:34:47
 Probably the most important period of your day is when you just wake up in the morning. If you’re rolling out of bed after hitting snooze a dozen times, you’re doing it wrong.
 Your morning routine can set you up for success the whole day. You can chose to linger in bed while dreading the alarm, or you can set yourself up for productivity and success with the introduction of a simple routine that will set the tone for everything you’ll accomplish that day.
 
-Working remotely and being self-employed has many advantages to the quality of life, but it does introduce certain challenges, especially when moving often and working from different cities and workspaces. 
+Working remotely and being self-employed has many advantages to the quality of life, but it does introduce certain challenges, especially when moving often and working from different cities and workspaces.
 When you are your own boss it is important to have and keep a discipline to become more productive at work on one side but also to live a healthy life on the other.
 To do this, it can help to introduce some routine to everyday life, as discussed by successful people like Tim Ferris, Tony Robbins and Hal Elrod.
 
@@ -15,20 +15,22 @@ After digging into the science behind daily routines and learning about daily ro
 
 #### MORNING (after waking up)
 1.	 Drink 2 glasses of **water** (1min)
-2.	 **Yoga** and stretching (5mins)
-3.   High intensity **whole body workout**  (7mins)
-3.	 **Breakfast**, morning shake and multivitamins (15mins)
-4.	 Brush your **teeth** (2mins)
-5.	 **Meditation**, use Calm app, practice breath also (10mins)
-6.	 Write the **morning journal** (5mins)
+2.   Don't check email and social media for 1 hour after waking up.
+3.	 **Yoga** and stretching (5mins)
+4.   **Bodyweight workout**  (10mins)
+5.	 **Breakfast**, morning shake and multivitamins (15mins)
+6.	 Brush your **teeth** (2mins)
+7.	 Practice deep breathing, **meditate** (10mins)
+8.	 Write the **morning journal** (5mins)
   1. 3 things that I am grateful for…
   2. 3 things that would make today great…
   3. Daily affirmations, I am…
-7. Define 3 most important goals for today (1min)
-8. (OPTIONAL)**What is bothering** me now the most? Spend 1h solving the problem
+9. Define **3 most important goals** for today (1min)
+10. (OPTIONAL) **What is bothering** me now the most? Spend 1h solving the problem.
+If adding a new habit, remember to measure the progress.
 
 #### DURING THE DAY
-1.	 Set a timer and work in **50-90min increments**
+1.	 Set a timer and work in **50min increments** while taking care of your posture. Take 10-min breaks in between.
 2.	 **If having stress** STOP and do 10 mins of meditation
 3.	 When **there is a problem**:
   1. What is great about this problem? What is not perfect yet?
