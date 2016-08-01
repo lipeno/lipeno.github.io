@@ -15,35 +15,36 @@ After digging into the science behind daily routines and learning about daily ro
 
 #### MORNING (after waking up)
 1.	 Drink 2 glasses of **water** (1min)
-2.   Don't check email and social media for 1 hour after waking up.
+2.   Don't check email and social media for 1 hour after waking up
 3.	 **Yoga** and stretching (5mins)
 4.   **Bodyweight workout**  (10mins)
 5.	 **Breakfast**, morning shake and multivitamins (15mins)
 6.	 Brush your **teeth** (2mins)
 7.	 Practice deep breathing, **meditate** (10mins)
 8.	 Write the **morning journal** (5mins)
-  1. 3 things that I am grateful for…
-  2. 3 things that would make today great…
-  3. Daily affirmations, I am…
+    1. 3 things that I am grateful for…
+    2. 3 things that would make today great…
+    3. Daily affirmations, I am…
 9. Define **3 most important goals** for today (1min)
-10. (OPTIONAL) **What is bothering** me now the most? Spend 1h solving the problem.
-If adding a new habit, remember to measure the progress.
+10. (OPTIONAL) **What is bothering** me now the most? Spend 1h solving the problem
+
 
 #### DURING THE DAY
 1.	 Set a timer and work in **50min increments** while taking care of your posture. Take 10-min breaks in between.
 2.	 **If having stress** STOP and do 10 mins of meditation
 3.	 When **there is a problem**:
-  1. What is great about this problem? What is not perfect yet?
-  2.	What am I willing to do to make it the way I want it? What am I willing to no longer do?
-  3.	How can I enjoy the process while I do what is necessary to make it the way I want it? What if this experience is, in fact, a good thing for me?
+    1. What is great about this problem? What is not perfect yet?
+    2.	What am I willing to do to make it the way I want it? What am I willing to no longer do?
+    3.	How can I enjoy the process while I do what is necessary to make it the way I want it? What if this experience is, in fact, a good thing for me?
+4. If adding a new habit, **schedule it and measure** the progress ("What gets scheduled gets done. What gets measured gets done.")
 
 #### EVENING (before sleep)
 1.	 Brush your **teeth** (2mins)
 2.	 Write the **evening journal** (3mins)
-  1.	3 amazing things that happened today…
-  2.	How could I have made today better?
+    1.	3 amazing things that happened today…
+    2.	How could I have made today better?
 3. Answer evening **power questions** (2mins)
-  1.	What have I given today? In what ways have I been a giver today? What did I learn today? How has today added to the quality of my life?
-  2.	Did I exercise, sleep 8 hours, and eat well?
-  3.	When walking outside, did I wish all beings I encounter loving-kindness?
+    1.	What have I given today? In what ways have I been a giver today? What did I learn today? How has today added to the quality of my life?
+    2.	Did I exercise, sleep 8 hours, and eat well?
+    3.	When walking outside, did I wish all beings I encounter loving-kindness?
 4.	 **Read** a fiction book (30mins)
