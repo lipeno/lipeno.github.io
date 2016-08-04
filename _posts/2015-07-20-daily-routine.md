@@ -15,7 +15,7 @@ After digging into the science behind daily routines and learning about daily ro
 
 #### MORNING (after waking up)
 1.	 Drink 2 glasses of **water** (1min)
-2.   Don't check email and social media for 1 hour after waking up
+2.   Don't check email and social media for 1 hour after waking up (put phone in airplane mode)
 3.	 **Yoga** and stretching (5mins)
 4.   **Bodyweight workout**  (10mins)
 5.	 **Breakfast**, morning shake and multivitamins (15mins)
