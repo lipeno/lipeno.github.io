@@ -393,7 +393,7 @@ margin-bottom: 20px;
 
 .project-img-wrap img{
 	display: block;
-    max-width: 150%;
+    max-width: 100%;
 }
 
 .project-details{
