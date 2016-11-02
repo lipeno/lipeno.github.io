@@ -386,15 +386,14 @@ margin-bottom: 20px;
 
 
 .project-img-wrap{
-	min-width: 100%;
-	margin: 0px auto;
-	overflow: hidden;
+	height: auto;
+    overflow: hidden;
 	/*cursor: pointer;*/
 }
 
 .project-img-wrap img{
-	height: 300px;
-	max-width: 150%;
+	display: block;
+    max-width: 150%;
 }
 
 .project-details{
